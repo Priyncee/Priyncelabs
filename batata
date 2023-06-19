@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="utf-8" />
+  	<link rel="stylesheet" type="text/css" href="estilo.css">
+    <title> League of Legends </title>
+</head>
+<body>
+    
+    <header>
+      <h1 align="center">League of Legens</h1>
+      <p align ="center">COMO JOGAR</p>
+    </header>
+    
+    <main>
+      <nav>
+        <ul>
+          <li><a href="./youtubelinks/index_youtubelinks.html"> YOUTUBE LINKS </a></li>
+          <li><a href="./riotlink/riotindex.html"> Site da Riot </a></li>
+          <li><a href="./gameplays/gameplays_index.html"> GAMEPLAYS </a></li>
+        </ul>
+      </nav>
 
+      <nav>
+      	<p>
+         <img src="LoL.png" alt="LoL" width="90" height="120"><br>
+        </p>
+      </nav>
+       
+      <p> 
+      https://htmlpreview.github.io/?https://github.com/Priyncee/Priyncelabs/blob/main/index.html <br>
+      </p>
+    </main>
+     
+    <footer>
+      Copyright © 2023 Priynce
+    </footer>
+</body>
+</html>
