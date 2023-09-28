@@ -42,5 +42,13 @@
         document.getElementById("demo2").innerHTML = "Alterado"
       }
     </script>
+
+    <script>
+      const changeColorButton2 = document.getElementById('tema2button');
+      changeColorButton2.addEventListener('click', () => {
+        document.body.style.backgroundColor = 'red';
+        document.header.style.backgroundColor = 'red';
+      });
+    </script>
   </body>
 </html>
